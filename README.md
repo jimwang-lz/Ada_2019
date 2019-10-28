@@ -37,11 +37,14 @@ We will use the dataset from the City of Chicago Open Data which is derived from
  
 # A list of internal milestones up until project milestone 2
 *Add here a sketch of your planning for the next project milestone.*
-- 02.11.2019: Data preprocessing
--   
-- 25.11.2019: Preliminary descriptive analysis
-- 20.12.2019: Finalize the data story and notebook
-- 29.12.2019: Create the poster
+- Acquire, clean and merge the data
+- Preliminary descriptive analysis and plot individual establishment based on location and time
+- Group different establishments based on the locations and analyze the relationships of results
+- Group different establishments based on time and analyze the overall results
+- Group different establishments based on inspection methods and analyze the effectiveness of inspection
+- If we could, we want to find out some other factors which will affect the establishments’ sanitary conditions 
+- Start thinking about the data story
+
  
 # Questions for TAs
 *Add here some questions you have for us, in general or project-specific.*
