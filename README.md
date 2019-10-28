@@ -1,13 +1,13 @@
-# Title: Ada_2019_project
+# Title: Food safety in Chicago
 
 
  
-# Abstract
+## Abstract
 *What's the motivation behind your project? A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why?*
 
 If you ask some elderlies, they may say a little dirt never killed anybody. However, with the degradation of the environment recently, food safety, especially when eating outside, has become a more and more serious issue all around the world. Therefore, inspections are performed by the staff from the Chicago Department of Public Health’s Food Protection Program using a standardized procedure.  According to the data displayed on the Kaggle, we get the result with different performances of establishments. Our objects are to review the overall sanitary conditions using the inspection results and analyze the effectiveness of the inspection methods in order to evaluate the reliability of the overall results. Possibly, we could understand the food hygiene condition all over the world through this small state. 
  
-# Research Questions
+## Research Questions
 
 *A list of research questions you would like to address during the project.*
 
@@ -29,13 +29,13 @@ If you ask some elderlies, they may say a little dirt never killed anybody. Howe
 3. Case study:
 Analyze the situation of some most popular food establishments and give some suggestions to nowadays young people in restaurant selection.
  
-# Dataset
+## Dataset
 *List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.*
 We will use the dataset from the City of Chicago Open Data which is derived from inspections of restaurants and other food establishments in Chicago from January 1st, 2010 to the present. This dataset includes abundant information on the inspections’ results. However, to achieve our goal, we may extend our data with the population demographics and the district’s division from the official website of Chicago.
 
 
  
-# A list of internal milestones up until project milestone 2
+## A list of internal milestones up until project milestone 2
 *Add here a sketch of your planning for the next project milestone.*
 - Acquire, clean and merge the data
 - Preliminary descriptive analysis and plot individual establishment based on location and time
