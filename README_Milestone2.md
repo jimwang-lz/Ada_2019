@@ -73,7 +73,7 @@ We will use the dataset from the City of Chicago Open Data which is derived from
     - The extra datasets can be easily found, but it's a little bite hard to find a proper way to link them together, If we cann't figure this out, we might just give up this plane
 
 - Do more analysis of the Risk distributions and Pass reult distributions.
-    - From initial analysis we can see that the distributions of risk and results have significant differences among time domin, we want to find out hidden reasons of this weird phenomenon.Is it because of the inspection type or facility type or other element.
+    - From initial analysis we can see that the distributions of risk and results have significant differences among time domain, we want to find out hidden reasons of this weird phenomenon.Is it because of the inspection type or facility type or other element.
 
 - Do passrate and inspection type analysis among different risk level facilities. 
     - We find out that the mean passrate is lower in the good risk level facilities than in bad level facilities, this seems doesn't make sense, we want to find out why.
