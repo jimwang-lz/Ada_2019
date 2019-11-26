@@ -61,7 +61,7 @@ We will use the dataset from the City of Chicago Open Data which is derived from
 - If we could, we want to find out some other factors which will affect the establishments’ sanitary conditions 
 - Start thinking about the data story
 
-## Current problem and further plane
+## Current problem and further plan
 
 - Study the geographical clustering if possible.
     - We have ready projected facilities into different districts of Chicago, but it's still hard to find any partten from the neighbor facilities. Further more, we are going to analysis the facilities within the certain distance of one facility to see if there are any interesting partten.
