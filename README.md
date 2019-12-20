@@ -34,7 +34,7 @@ We will use the dataset from the City of Chicago Open Data which is derived from
  
 ## Website
 <u><a href="https://chicagofoodsecurity.github.io/posts/">How to get into food security</a></u>
-The main content can be found in the 
+
 
 ## Conclusion
 
