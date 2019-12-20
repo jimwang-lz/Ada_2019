@@ -28,8 +28,9 @@ Analyze the situation of some most popular food establishments and give some sug
  
 ## Dataset
 *List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.*
-We will use the dataset from the City of Chicago Open Data which is derived from inspections of restaurants and other food establishments in Chicago from January 1st, 2010 to the present. This dataset includes abundant information on the inspections’ results. However, to achieve our goal, we may extend our data with the population demographics and the district’s division from the official website of Chicago.
-
+We will use the dataset from the City of Chicago Open Data which is derived from inspections of restaurants and other food establishments in Chicago from January 1st, 2010 to the present. This dataset includes abundant information on the inspections’ results. However, to achieve our goal, we may extend our data with the population demographics and the district’s division from the official website of Chicago.<br>
+Food inspection dataset can be found here:<u><a href="https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5">Chicago food inspection</a></u><br>
+Communities boundaries dataset can be found here:<u><a href="https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Neighborhoods/9wp7-iasj">Chicago communities boundaries</a></u><br>
 
  
 ## Website
