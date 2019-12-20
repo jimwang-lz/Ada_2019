@@ -13,19 +13,16 @@ If you ask some elderlies, they may say a little dirt never killed anybody. Howe
 
 1. The sanitary conditions of food establishments:
 - How is the overall sanitary condition of Chicago’s dining establishments? How is it distributed in this city?
-- What are the most common violations? What do the violation comments imply?
+- What are the most common violations?
 - How does food hygiene condition correlate to facility type: Does a certain type of restaurant have a more serious problem on food security?
 - How does food hygiene condition correlate to time (i.e. months, seasons, and years): Does hot weather mean bad food sanitation? Does food safety get improved over time?
-- How does food hygiene condition correlate to districts: Do some districts always face a bigger food safety problem? Where is the safest or worst place to eat?
-- Do restaurants have Clustering affection: Do geographically closed restaurants have a similar violation?
-- If the hygiene condition and violation type are highly correlated to the districts, try to use some other additional geo-related dataset to find out why.(bonus)
+
  
 2. The effectiveness of the inspection methods:
 - Is different inspections’ frequency consistent: Do different kinds of inspections have similar distribution both in the time domain and geographic domain?
 - How does inspection’s result correlate to the inspection’s type and frequency: for example, do advanced noticed inspection have a better result?
 - Does the inspection frequency satisfy the state’s requirements?
 - How do different inspection methods influence the inspection results?
-- Try to develop a way to measure the establishments’ hygiene performance. (bonus)
 3. Case study:
 Analyze the situation of some most popular food establishments and give some suggestions to nowadays young people in restaurant selection.
  
@@ -35,22 +32,15 @@ We will use the dataset from the City of Chicago Open Data which is derived from
 
 
  
-## A list of internal milestones up until project milestone 2
-*Add here a sketch of your planning for the next project milestone.*
-- Acquire, clean and merge the data
-- Preliminary descriptive analysis and plot individual establishment based on location and time
-- Group different establishments based on the locations and analyze the relationships of results
-- Group different establishments based on time and analyze the overall results
-- Group different establishments based on inspection methods and analyze the effectiveness of inspection
-- If we could, we want to find out some other factors which will affect the establishments’ sanitary conditions 
-- Start thinking about the data story
+## Website
+<u><a href="https://chicagofoodsecurity.github.io/posts/">How to get into food security</a></u>
+The main content can be found in the 
+
+## Conclusion
+
+The data story contains the contention of our project. We mainly show the most representatives in our story, including descriptive statistics in inspections, inspection effectiveness evaluation and some basic analysis of violations. Several proofs have been verified to make the conclusion that inspections are effective in general. Despite that, the inspection frequency corresponding to the specific "risk" type did reach designed frequency. For example, "risk 1(high)" does have a higher pass-rate compared to others with a higher inspection frequency. As for the new violation code, although it's hard to use it to infer the severity, we can somehow verify the effectiveness of the changing violation category.
 
  
-# Questions for TAs
-*Add here some questions you have for us, in general or project-specific.*
-- Is it okay for us to use some other dataset as an additional dataset to mine more stories from the existed dataset? For example, to use other geo-related data that can be found from the city of Chicago open data to analyze the potential relationship between food violation type and the main population of the particular area?
-- What’re the differences between milestone 2 and the report submission? Do we need to finish all the analysis working before milestone 2?
-- When are we getting the feedback for the milestone 1?
-- How much memory RAM would this require? Would it be feasible to conduct the analysis without resorting to cloud computing?
+
  
 
