@@ -42,7 +42,7 @@ The data story contains the contention of our project. We mainly show the most r
 ## Contributions of each group member:
 Li Danya: Idea designing, Data preprocessing, data analysis, results ploting and discussion writing  
 Wang Jimin: Idea designing, Data preprocessing, data analysis, results ploting and discussion writing  
-Sun Haoyuan: Idea designing, Data preprocessing and a little data analysis.
+Sun Haoyuan: Idea designing, Data preprocessing and a little data analysis.  
 Pang Lei: Idea designing, Data preprocessing, data analysis, discussion writing and blog coding.  
 
 Wang Jimin will work on the final presentation.
