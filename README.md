@@ -1,6 +1,7 @@
 # Title: Food safety in Chicago
 
-
+## Website
+<u><a href="https://chicagofoodsecurity.github.io/posts/">How to get into food security</a></u>
  
 ## Abstract
 *What's the motivation behind your project? A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why?*
@@ -33,15 +34,17 @@ Food inspection dataset can be found here:<u><a href="https://data.cityofchicago
 Communities boundaries dataset can be found here:<u><a href="https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Neighborhoods/9wp7-iasj">Chicago communities boundaries</a></u><br>
 
  
-## Website
-<u><a href="https://chicagofoodsecurity.github.io/posts/">How to get into food security</a></u>
-
-
 ## Conclusion
 
 The data story contains the contention of our project. We mainly show the most representatives in our story, including descriptive statistics in inspections, inspection effectiveness evaluation and some basic analysis of violations. Several proofs have been verified to make the conclusion that inspections are effective in general. Despite that, the inspection frequency corresponding to the specific "risk" type did reach designed frequency. For example, "risk 1(high)" does have a higher pass-rate compared to others with a higher inspection frequency. As for the new violation code, although it's hard to use it to infer the severity, we can somehow verify the effectiveness of the changing violation category.
 
  
+Contributions of each group member:
+Li Danya: Idea designing, Data preprocessing, data analysis, results ploting and discussion writing
+Wang Jimin: Idea designing, Data preprocessing, data analysis, results ploting and discussion writing
+Sun Haoyuan: Idea designing, Data preprocessing.
+Pang Lei: Idea designing, Data preprocessing, data analysis, discussion writing and blog coding.
 
+Wang Jimin will work on the final presentation.
  
 
